@@ -1,1 +1,14 @@
-
+{
+    "name": "JJ's",
+    "description": "A plugin for use as a JJs sender.",
+    "authors": [
+        {
+            "name": "vardhh_",
+            "id": "1177644922078236742"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
